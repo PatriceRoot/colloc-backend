@@ -1,3 +1,3 @@
 export function homeController(req, res) {
-  res.send("Welcome in colloc app!");
+  res.send("Bienvenue dans la plateforme COLLOC!");
 }
